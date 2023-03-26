@@ -15,7 +15,8 @@
     "name": "Moody Salem"
   },
   "files": [
-    "build"
+    "build",
+     "/src"
   ],
   "scripts": {
     "precompile": "rimraf ./build/",
